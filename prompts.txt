@@ -1,0 +1,39 @@
+Create AI agents - multiple agents to
+
+Agent1 - Fundamental analysis
+Agent2 - Macro indicators
+Agent3 - Technical analysis
+Agent4 - Market Sentiment and Risk Manager
+Oversight - Portfolio Manager
+
+
+Act as a portfolio architect. Based on [my risk tolerance], [target return], and [time horizon], design a diversified equity portfolio using 6–10 stocks or ETFs. Assign weights by volatility-adjusted contribution. Include reasoning for each selection tied to macro trends and sector strength
+
+Screen Solar & BESS sector in Indian market for companies with strong fundamentals. Rank stocks by revenue growth, debt-to-equity ratio, return on equity, and earnings consistency. Output the top candidates with brief valuation notes and risk flags. Focus on quality before momentum
+
+From [portfolio or watchlist], identify which stocks show aligned momentum across daily, weekly, and monthly charts. Confirm with increasing relative volume and volatility expansion. Highlight only those meeting at least three structural confirmations. Data defines conviction
+
+List all upcoming catalysts that could significantly move the price of [stock] in the next 90 days. Include earnings, product launches, lawsuits, macro events, and sector trends
+
+Analyze [stock] and identify the top 5 factors that could cause the price to drop in the next 6 months. Rank by risk level and likelihood
+
+Create a one-page visual scorecard for [stock] with green flags (reasons to buy), red flags (reasons to avoid), and yellow flags (neutral or uncertain signals). Include a final risk score
+
+ask Grok to give me bull, bear and base cases for a stock with 1, 3 and 5 year price targets, and the reasoning and assumptions that they use to arrive at these targets
+
+Build a long-term investment thesis for [stock] from a hedge-fund mindset: why smart money would buy, what they know that retail misses, and what would invalidate the thesis
+
+Based on technical + fundamental signals for [stock], suggest three possible strategies: short-term swing, mid-term trend trade, and long-term accumulation, including entry, exit, and risk
+
+Show me promoter activity from last x days - buy/sell/pledge/qty/etc.,
+
+Show me Number of stocks moved by x% on a given day/week/month
+
+Show me number of stocks/industry where the earnings growth is above x%. Show me the list of Indian stocks which beat industry average in earnings growth over last 4 quarterly earnings reports
+
+Show me the number of stocks where is the book value is gradually increasing by x% in last 1 year
+
+Would you like me to compare Websol’s valuation metrics (P/E, EV/EBITDA) directly against its larger peers like Waaree Energies or Premier Energies to see exactly how steep the discount is?
+
+
+

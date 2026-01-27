@@ -1,0 +1,5 @@
+
+pip install plotly
+"C:\Users\rajki\OneDrive\Desktop\investment\commodity_app.py"
+
+python script to be run
